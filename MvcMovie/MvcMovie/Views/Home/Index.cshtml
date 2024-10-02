@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Homepage";
+}
+
+@model IEnumerable<Movie>
+
+<div class="container" style="margin-top: 100px;">
+    <form class="form-inline my-2" asp-controller="Home" asp-action="Search" method="get">
+        <div class="input-group">
+            <input class="form-control mr-sm-2" type="search" name="searchBar" placeholder="Search your fav movie..." aria-label="Search" />
+            <button class="btn btn-primary my-2 my-sm-0" type="submit">Search</button>
+        </div>
+    </form>
+    
+    <div class="row mt-4">
+        @if (Model.Any())
+        {
+            foreach (var movie in Model)
+            {
+                <div class="col-md-3 d-flex align-items-stretch mb-4">
+                    <div class="card" style="height: 500px;">
+                        <img class="card-img-top" src="@movie.Poster" alt="@movie.Title" style="object-fit: cover; height: 350px;" />
+                        <div class="card-body d-flex flex-column">
+                            <h5 class="card-title">@movie.Title (@movie.ReleaseDate)</h5>
+                            <a class="btn btn-primary mt-auto" asp-controller="Home" asp-action="Detail" asp-route-id="@movie.Id">Watch</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <div class="alert alert-warning" role="alert">
+                No results found!
+            </div>
+        }
+    </div>
+</div>

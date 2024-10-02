@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MvcMovie",
+    "\\MvcMovie\\Controllers",
+    "\\MvcMovie\\Models",
+    "\\MvcMovie\\Views",
+    "\\MvcMovie\\Views\\Home",
+    "\\MvcMovie\\Views\\Shared"
+  ],
+  "SelectedNode": "\\MvcMovie\\Views\\Home\\Detail.cshtml",
+  "PreviewInSolutionExplorer": false
+}

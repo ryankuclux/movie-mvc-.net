@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PKL\\.net\\MovieAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDF54C-5EB6-404E-8C0B-D90F77D04305}|MovieAPI\\MovieAPI.csproj|c:\\pkl\\.net\\movieapi\\movieapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DDF54C-5EB6-404E-8C0B-D90F77D04305}|MovieAPI\\MovieAPI.csproj|solutionrelative:movieapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDF54C-5EB6-404E-8C0B-D90F77D04305}|MovieAPI\\MovieAPI.csproj|c:\\pkl\\.net\\movieapi\\movieapi\\models\\updatemoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DDF54C-5EB6-404E-8C0B-D90F77D04305}|MovieAPI\\MovieAPI.csproj|solutionrelative:movieapi\\models\\updatemoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDF54C-5EB6-404E-8C0B-D90F77D04305}|MovieAPI\\MovieAPI.csproj|c:\\pkl\\.net\\movieapi\\movieapi\\models\\addmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DDF54C-5EB6-404E-8C0B-D90F77D04305}|MovieAPI\\MovieAPI.csproj|solutionrelative:movieapi\\models\\addmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDF54C-5EB6-404E-8C0B-D90F77D04305}|MovieAPI\\MovieAPI.csproj|c:\\pkl\\.net\\movieapi\\movieapi\\models\\entities\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DDF54C-5EB6-404E-8C0B-D90F77D04305}|MovieAPI\\MovieAPI.csproj|solutionrelative:movieapi\\models\\entities\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateMovieDto.cs",
+              "DocumentMoniker": "C:\\PKL\\.net\\MovieAPI\\MovieAPI\\Models\\UpdateMovieDto.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Models\\UpdateMovieDto.cs",
+              "ToolTip": "C:\\PKL\\.net\\MovieAPI\\MovieAPI\\Models\\UpdateMovieDto.cs",
+              "RelativeToolTip": "MovieAPI\\Models\\UpdateMovieDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:46:36.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\PKL\\.net\\MovieAPI\\MovieAPI\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\PKL\\.net\\MovieAPI\\MovieAPI\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieAPI\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAYwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:45:37.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddMovieDto.cs",
+              "DocumentMoniker": "C:\\PKL\\.net\\MovieAPI\\MovieAPI\\Models\\AddMovieDto.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Models\\AddMovieDto.cs",
+              "ToolTip": "C:\\PKL\\.net\\MovieAPI\\MovieAPI\\Models\\AddMovieDto.cs",
+              "RelativeToolTip": "MovieAPI\\Models\\AddMovieDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:52:20.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\PKL\\.net\\MovieAPI\\MovieAPI\\Models\\Entities\\Movies.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Models\\Entities\\Movies.cs",
+              "ToolTip": "C:\\PKL\\.net\\MovieAPI\\MovieAPI\\Models\\Entities\\Movies.cs",
+              "RelativeToolTip": "MovieAPI\\Models\\Entities\\Movies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:22:44.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
